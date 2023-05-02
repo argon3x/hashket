@@ -32,7 +32,7 @@ Run the script using
 
 ***To check the hash of a downloaded file***
 
-	./hashket.sh -c <hash provided by the site> -f <file path>
+	./hashket.sh -c <hash provided by the site> -f <path file>
 
 ##### Dependencies
 
