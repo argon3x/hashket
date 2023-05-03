@@ -34,7 +34,7 @@ Run the script using
 
 	./hashket.sh -c <hash provided by the site> -f <path file>
 
-##### Dependencies
+### Dependencies
 
 *The script uses*
 
